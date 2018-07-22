@@ -1,1 +1,1 @@
-Meu repositório de sistemas desenvolvidos
+Meu repositório de aprendizado em Python
