@@ -12,5 +12,6 @@
 3. [Vetores](https://github.com/hermanoaraujo/python/tree/master/Vetores)
 4. [Matriz](https://github.com/hermanoaraujo/python/tree/master/Matriz)
 5. [Função](https://github.com/hermanoaraujo/python/tree/master/Funcoes)
+6. [Arquivos](https://github.com/hermanoaraujo/python/tree/master/Arquivos)
 
 ----
