@@ -1,5 +1,6 @@
 # Script com finalidade de estudos
 # Syn Flood Packets
+# Credits: github.com/EmreOvunc
 ##################################
 
 from scapy.all import *
